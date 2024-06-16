@@ -1,0 +1,42 @@
+- fire hose driking fountain
+	https://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/
+	
+Computer science is solving problems using technics.
+
+Solving ploblems is simples like that:
+	Input -> Transformation -> Output
+
+
+Computer language	
+	base-2-binary
+		0 and 1
+		1 = bit / binary digity = on
+		0 = bit = off
+
+base-10
+100 10 1
+
+base-2
+4 2 1
+
+001 = 1
+010 = 2
+011 = 3
+100 = 4
+101 = 5
+111 = 6
+
+00000001 = 8bit = bite, ascii = 256 = 8bit, unicode = 4bilion = 32bit
+	s
+	Unicode's mission is to represent and preserve digitally all of humanity's languages.
+
+Hexadecimal 
+
+
+
+
+
+
+
+	
+
