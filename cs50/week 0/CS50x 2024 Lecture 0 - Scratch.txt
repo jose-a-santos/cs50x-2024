@@ -1,7 +1,7 @@
 - fire hose driking fountain
 	https://hacks.mit.edu/Hacks/by_year/1991/fire_hydrant/
 	
-Computer science is solving problems using technics.
+Ciencia da computação é resolver problemas
 
 Solving ploblems is simples like that:
 	Input -> Transformation -> Output
@@ -27,10 +27,15 @@ base-2
 111 = 6
 
 00000001 = 8bit = bite, ascii = 256 = 8bit, unicode = 4bilion = 32bit
-	s
+	
 	Unicode's mission is to represent and preserve digitally all of humanity's languages.
 
-Hexadecimal 
+Hexadecimal
+
+Representation
+	How to represente colors
+		RGB
+	
 
 
 
