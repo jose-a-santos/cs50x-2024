@@ -33,9 +33,30 @@ base-2
 Hexadecimal
 
 Representation
-	How to represente colors
-		RGB
+	Como são representados
+		cores - rgb 
+		imagens
+		musicas
+		videos 
+
+		tudo são apenas zeros e uns, mas para diversos destes casos acima, os bits são organizados de uma forma
+		difernte, capaz de armazenar mais informações, ou organizar as informações para conseguir representar coisas
+		do mundo real.	Cores são represetados por rgb ou hexadecimal, imagens são represetados por pixels.
 	
+Algoritmos
+	Algoritmos de busca.
+		
+		log2n = dividir ao meio e identificar em qual metade está a informação, descartar a parte que não tem a	
+		informação e repetir o processo até chegar na unica informação.
+		
+		algoritmos são feitos para resolver o problema, mas existem formas diferentes de resolver o problema
+		devemos pensar em forma mais eficientes para resolver os problema, como é o caso do log2n
+
+		
+Pseudocode
+	É uma descrição dos seus pensamentos, em forma de passo a passo com o objetivo de resolver um problema, seria
+	como descrever o passo a passo para resolver o problema.
+
 
 
 
